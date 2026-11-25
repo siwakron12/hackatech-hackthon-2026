@@ -5,10 +5,11 @@
 
 > 🏆 **โปรเจคนี้เป็นผลงานที่ชนะร่วม 3 ทีม (Winner)** จากกิจกรรมแฮกกาธอนที่จัดโดย **[CreativeLab TH](https://www.facebook.com/CreativeLabTH)**
 
-<div style="display: flex; justify-content: space-between; align-items: flex-start; gap: 12px; flex-wrap: wrap;">
-  <img width="485" height="956" alt="a" src="https://github.com/user-attachments/assets/77c4164d-f5da-456f-b3ee-918318036aeb" style="max-width: 48%; height: auto;" />
-  <img width="483" height="953" alt="b" src="https://github.com/user-attachments/assets/4f1f476f-db66-4719-9149-7b519bd5a839" style="max-width: 48%; height: auto;" />
-</div>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/77c4164d-f5da-456f-b3ee-918318036aeb" alt="a" width="48%" />
+  &nbsp;
+  <img src="https://github.com/user-attachments/assets/4f1f476f-db66-4719-9149-7b519bd5a839" alt="b" width="48%" />
+</p>
 
 <img width="1536" height="2048" alt="721861453_866812636496352_7040138757786906049_n" src="https://github.com/user-attachments/assets/7b13b9f9-5382-4417-834c-5c61550c7b8d" />
 
