@@ -31,7 +31,7 @@
 |---|---|
 | Framework | [Next.js 16](https://nextjs.org/) (App Router) + React 19 + TypeScript |
 | Styling | Tailwind CSS 4 |
-| ฐานข้อมูล / ORM | PostgreSQL + [Prisma](https://www.prisma.io/) |
+| ฐานข้อมูล / ORM | SQlite + [Prisma](https://www.prisma.io/) |
 | แผนที่ | Leaflet / React-Leaflet |
 | ไอคอน | Lucide React |
 | การยืนยันตัวตน | bcrypt + session-based auth |
