@@ -4,6 +4,9 @@
 **MeetFan** คือแพลตฟอร์มที่ช่วยให้คนที่มีความสนใจคล้ายกันได้เจอกันผ่าน "อีเวนต์" ในชีวิตจริง — ไม่ว่าจะเป็นงานออกกำลังกาย นิทรรศการศิลปะ หรือแฮกกาธอน ผู้ใช้สามารถค้นหาอีเวนต์ใกล้ตัว, ปัดเลือกคนที่อยากรู้จัก (คล้าย swipe การ์ด), จับคู่กันเมื่อสนใจตรงกัน แล้วเริ่มแชทได้ทันที
 
 > 🏆 **โปรเจคนี้เป็นผลงานที่ชนะร่วม 3 ทีม (Winner)** จากกิจกรรมแฮกกาธอนที่จัดโดย **[CreativeLab TH](https://www.facebook.com/CreativeLabTH)**
+
+<img width="485" height="956" alt="a" src="https://github.com/user-attachments/assets/77c4164d-f5da-456f-b3ee-918318036aeb" />  <img width="483" height="953" alt="b" src="https://github.com/user-attachments/assets/4f1f476f-db66-4719-9149-7b519bd5a839" />
+
 <img width="1536" height="2048" alt="721861453_866812636496352_7040138757786906049_n" src="https://github.com/user-attachments/assets/7b13b9f9-5382-4417-834c-5c61550c7b8d" />
 
 ---
