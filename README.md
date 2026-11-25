@@ -50,42 +50,7 @@ prisma/
 └── schema.prisma        # โมเดลข้อมูล: User, Event, EventParticipant, Swipe, Match, UserSession
 ```
 
-## 🚀 เริ่มต้นใช้งาน
 
-### สิ่งที่ต้องมีก่อน
-
-- Node.js (แนะนำเวอร์ชันล่าสุด LTS)
-- ฐานข้อมูล PostgreSQL
-
-### ติดตั้งและรัน
-
-```bash
-# ติดตั้ง dependencies
-npm install
-
-# ตั้งค่าตัวแปรแวดล้อม (สร้างไฟล์ .env แล้วกำหนด DATABASE_URL ให้ชี้ไปยัง PostgreSQL ของคุณ)
-DATABASE_URL="postgresql://user:password@localhost:5432/meetfan"
-
-# สร้าง Prisma client และรัน migration
-npm run prisma:generate
-npm run prisma:migrate
-
-# (ถ้าต้องการ) เติมข้อมูลตัวอย่างลงฐานข้อมูล
-npm run prisma:seed
-
-# รันเซิร์ฟเวอร์สำหรับพัฒนา
-npm run dev
-```
-
-จากนั้นเปิด [http://localhost:3000](http://localhost:3000) เพื่อดูผลลัพธ์
-
-### คำสั่งอื่นๆ ที่มีให้ใช้
-
-```bash
-npm run build     # build โปรเจคสำหรับ production
-npm run start     # รันเซิร์ฟเวอร์ production
-npm run lint      # ตรวจสอบโค้ดด้วย ESLint
-```
 
 ## 🙏 ขอบคุณ
 
